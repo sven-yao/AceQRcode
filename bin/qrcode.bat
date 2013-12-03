@@ -1,0 +1,1 @@
+QRencode -o test.png -s 4 -l M -f A6200E -b AFEFFB www.lambk.net
